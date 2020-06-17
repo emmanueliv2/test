@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ift-phone
+Implementation-Version: 1.1-SNAPSHOT
+Built-By: emmanueliv
+Implementation-Vendor-Id: com.santander.notificaciones
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/ift-phone/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
